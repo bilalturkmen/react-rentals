@@ -2,9 +2,7 @@
 
 https://react-rentals.netlify.app/
 
-<div>
-React Rentals is a beginner-friendly showcase project that illustrates how to build UI using reusable React components and pass data between them using props. It focuses on understanding component structure and best practices for organizing a small React app.
-</div>
+React Rentals is a beginner-friendly showcase project that illustrates how to build UI using `reusable React components` and pass data between them `using props`. It focuses on understanding component structure and best practices for organizing a small React app.
 
 ## 👍 My Challenges:
 
